@@ -8,7 +8,8 @@ output: github_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
+This is portfolio write up for my
+Data Science for Psychologist Course, Spring 2022, Wake Forest Unversity. 
 # portfolio 1
 
 I conducted Multilevel modeling, refering some resources.

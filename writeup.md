@@ -3,7 +3,8 @@ port_write_up
 Yoo Ri Hwang
 5/4/2022
 
-# portfolio 1
+This is portfolio write up for my Data Science for Psychologist Course,
+Spring 2022, Wake Forest Unversity. \# portfolio 1
 
 I conducted Multilevel modeling, refering some resources.
 <https://github.com/YRHwang90/Portfolio1/blob/main/portfol1/port1.md>
